@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "swipers": [
+     {"image":  "https://raw.githubusercontent.com/leej94263/vip_video/master/image/pj21d.png",  "url": "https://pj21d.com/a/933125", "openInBrowser": true},
+          {"image":  "https://raw.githubusercontent.com/leej94263/vip_video/master/image/aici123.png",  "url": "http://cyzs.aici123.com/index.php?m=Loan&a=supermarket&from_user_id=472760", "openInBrowser": true},
+    {"image":  "http://img1.gtimg.com/v/pics/hv1/128/166/2260/146998958.jpg",  "url": "https://v.qq.com/x/cover/si8r56z16tkkbi1.html", "openInBrowser": true},
+    {"image":  "http://puui.qpic.cn/tv/0/17748521_1680580/0/",  "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc.html"},
+    {"image":  "http://img1.gtimg.com/v/pics/hv1/214/163/2260/146998279.jpg",  "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc.html"}
+  ],
+  "contactUs": {"image": "https://raw.githubusercontent.com/leej94263/vip_video/master/image/weixin.png", "qq": "31380529", "weixin": "ass33212"}, 
+  "sites": [    
+    {"title": "爱奇艺", "icon": {"uri": "https://raw.githubusercontent.com/leej94263/vip_video/master/image/sites/iqiyi.png"},  "url": "http://m.iqiyi.com/"}
+  ],
+  "jxKeys": {
+    "iqiyi": ["m.iqiyi.com/v_"]
+  },
+  "jxlinks": [
+    {"url": "http://000o.cc/2018/333.php?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv"]},
+    {"url": "http://v.2gty.com/apiurl/yun.php?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv"]},
+    {"url": "http://v.72du.com/api/?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv"]},
+    {"url": "http://api.baiyug.cn/vip/index.php?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv"]}
+  ]
+}
