@@ -13,7 +13,7 @@
   ],
   "jxKeys": {
     "iqiyi": ["m.iqiyi.com/v_"]
-  }
+  },
   "jxlinks": [
     {"url": "http://000o.cc/2018/333.php?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv"]},
     {"url": "http://v.2gty.com/apiurl/yun.php?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv"]},
