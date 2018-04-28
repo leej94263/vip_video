@@ -12,7 +12,7 @@
     {"title": "爱奇艺", "icon": {"uri": "https://raw.githubusercontent.com/leej94263/vip_video/master/image/sites/iqiyi.png"},  "url": "http://m.iqiyi.com/"}
   ],
   "jxKeys": {
-    'iqiyi': ["m.iqiyi.com/v_"]
+    "iqiyi": ["m.iqiyi.com/v_"]
   }
   "jxlinks": [
     {"url": "http://000o.cc/2018/333.php?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv"]},
