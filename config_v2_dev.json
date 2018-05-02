@@ -9,7 +9,7 @@
   ],
   "contactUs": {"image": "https://raw.githubusercontent.com/leej94263/vip_video/master/image/weixin.png", "qq": "31380529", "weixin": "ass33212"}, 
   "sites": [    
-    {"title": "电影网", "icon": {"uri": "https://raw.githubusercontent.com/leej94263/vip_video/master/image/sites/m1905.png"},  "url": "http://www.1905.com/index_h5.shtml"},   
+    {"title": "电影网", "icon": {"uri": "https://raw.githubusercontent.com/leej94263/vip_video/master/image/sites/m1905.png"},  "url": "http://www.1905.com/index_h5.shtml"},
     {"title": "华数TV", "icon": {"uri": "https://raw.githubusercontent.com/leej94263/vip_video/master/image/sites/wasu.png"},  "url": "https://www.wasu.cn/wap/"}
   ],
   "jxKeys": {
@@ -23,7 +23,7 @@
     {"url": "http://jx.618g.com/?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv","m1902"]},
     {"url": "http://yun.odflv.com/?url={{URL}}", "supports": ["iqiyi","qq","youku","le","mgtv","pptv","sohu","wasu"]},
     {"url": "http://000o.cc/2018/333.php?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","youku","pptv"]},
-    {"url": "http://api.baiyug.cn/vip/?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","wasu","pptv"]},
+    {"url": "http://api.baiyug.cn/vip/?url={{URL}}", "supports": ["iqiyi","qq","le","mgtv","sohu","wasu","pptv"]}
     
   ]
 }
