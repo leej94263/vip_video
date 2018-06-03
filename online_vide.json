@@ -1,7 +1,13 @@
+
 {
-"version": "1.0.0",
-"downloadPage": "http://www.baidu.com",
-"downloadURL": "https://github.com/leej94263/vip_video/raw/master/download/online_video-1.0.0.apk",
+
+  "update": "Yes",
+  "new_version": "0.8.3",
+  "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/app-debug.apk",
+  "update_log": "1 修复问题\r\n2 性能优化\r\n",
+  "target_size": "5M",
+  "constraint": true
+
 "splash": [{
   "image": "https://github.com/leej94263/vip_video/raw/master/image/aici123.png",
   "url": "http://www.baidu.com"
