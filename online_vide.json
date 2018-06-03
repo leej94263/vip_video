@@ -6,8 +6,7 @@
   "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/app-debug.apk",
   "update_log": "1 修复问题\r\n2 性能优化\r\n",
   "target_size": "5M",
-  "constraint": true
-
+  "constraint": true,
 "splash": [{
   "image": "https://github.com/leej94263/vip_video/raw/master/image/aici123.png",
   "url": "http://www.baidu.com"
