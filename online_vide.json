@@ -1,0 +1,17 @@
+{
+"version": "1.0.0",
+"downloadPage": "http://www.baidu.com",
+"downloadURL": "https://github.com/leej94263/vip_video/raw/master/download/online_video-1.0.0.apk",
+"splash": [{
+  "image": "https://github.com/leej94263/vip_video/raw/master/image/aici123.png",
+  "url": "http://www.baidu.com"
+  }],
+"share": [
+ {
+  "image": "https://github.com/leej94263/vip_video/raw/master/image/aici123.png",
+  "url": "http://www.baidu.com",
+  "title": "http://www.baidu.com",
+  "description": "http://www.baidu.com"
+ }
+]
+}
